@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hoesaeng-case.com/sitemap.xml
